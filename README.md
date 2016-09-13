@@ -1,2 +1,2 @@
-# Java-II-Final
-Final for my Java II Class
+# Java-II-Ch2
+Second project for my Java II class
